@@ -19,7 +19,7 @@
   - Period : 2019.10 - 2019.12
   - Assigned Task : reception of guests / Store management / Doing the dishes
 
-- FLO cotnest 'My Music Tent' Recording
+- [FLO cotnest 'My Music Tent' Recording](https://www.youtube.com/watch?v=w6WHMX89lXs&list=PLQ1qWfTFHuNtbGaFWxo1WNoXHVX-AhgIb)
   - Date : 2020.07.22
   - Assgined Task : Setting and cleaning up stage props in Art directing team
 
