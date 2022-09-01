@@ -28,7 +28,7 @@
   - Period : 2019.06 - 2019.08
   - Assigned Task : Setting the broadcast environment(Camera Installation, Microphone setting etc.) / Video shooting assistance / Audio equipment work during recording etc.
 
-# Intern
+# Internship
 - Kookmin University ERID
   - Period : 2020.10 - 2021.03
   - Assigned Task : Education program introduction video production / Assistant Professor's Work / Research support etc.
