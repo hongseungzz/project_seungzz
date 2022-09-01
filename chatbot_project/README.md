@@ -14,9 +14,9 @@
 - Explanation
     - Deployment to the ```Flask``` web framework and ```Heroku``` platform and simple DB management with ```Postgresql```
     - Service 1 : Recommendation suburban scholarships to meet the requirements
-          - Two Versions of Chatbot
-            - Chatbot 1 : 
-            - Chatbot 2 :
+          - Two Versions of Insert Option
+          - Option 1 : 
+          - Option 2 :
     - Service 2 : Inquiry suburban scholarships that users want to know about
   
     
