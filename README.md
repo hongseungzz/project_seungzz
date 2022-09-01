@@ -18,12 +18,17 @@
 - Seongbuk Village Media Support Center
   - Period : 2019.06 - 2019.08
   - Assigned Task : Setting the broadcast environment(Camera Installation, Microphone setting etc.), 
+                    
                     Video shooting assistance, 
+                    
                     Audio equipment work during recording
+                    
 - 육회지존
   - Period : 2019.10 - 2019.12
   - Assigned Task : reception of guests,
+                    
                     Store management,
+                   
                     Doing the dishes
                     
 # Project
