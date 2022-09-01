@@ -12,6 +12,7 @@
   - Period : 2022.06.16 - 2022.12.07
   - Institute : Human Education Center
   - Main Contents: Python-based data analysis and chatbot making project, JAVA-based web development and project
+  - Class Courses
 
 # Part Time                    
 - 육회지존 수유점
