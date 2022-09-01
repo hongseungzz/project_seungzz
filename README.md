@@ -1,2 +1,3 @@
 # Project
-## Project 1. 챗봇 프로젝트
+## Project 1. Chatbot Project
+- Folder name: 
