@@ -14,22 +14,20 @@
 
 - Main Contents: Python-based data analysis and chatbot making project, JAVA-based web development and project
 
-# Part Time & Intern
+# Part Time                    
+- 육회지존 수유점
+  - Period : 2019.10 - 2019.12
+  - Assigned Task : reception of guests / Store management / Doing the dishes
+
+# Field training
 - Seongbuk Village Media Support Center
   - Period : 2019.06 - 2019.08
-  - Assigned Task : Setting the broadcast environment(Camera Installation, Microphone setting etc.), 
-                    
-                    Video shooting assistance, 
-                    
-                    Audio equipment work during recording
-                    
-- 육회지존
-  - Period : 2019.10 - 2019.12
-  - Assigned Task : reception of guests,
-                    
-                    Store management,
-                   
-                    Doing the dishes
+  - Assigned Task : Setting the broadcast environment(Camera Installation, Microphone setting etc.) / Video shooting assistance / Audio equipment work during recording
+
+# Intern
+- Kookmin University ERID
+  - Period : 2020.10 - 2021.03
+  - Assigned Task : Education program introduction video production / Assistant Professor's Work / Research support
                     
 # Project
 ## Project 1. Chatbot Project
