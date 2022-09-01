@@ -19,6 +19,10 @@
   - Period : 2019.10 - 2019.12
   - Assigned Task : reception of guests / Store management / Doing the dishes
 
+- FLO cotnest 'My Music Tent' Recording
+  - Date : 2020.07.22
+  - Assgined Task : Setting and cleaning up stage props in Art directing team
+
 # Field training
 - Seongbuk Village Media Support Center
   - Period : 2019.06 - 2019.08
