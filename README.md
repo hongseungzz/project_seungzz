@@ -1,4 +1,11 @@
+# Information
+- Name : Hong Seung Gi
+- E-mail : zoxjdiwkwk@gmail.com
+
 # Level of Education
+2014.02 Graduation from Jecheon High School
+2015.03 Admission to Kookmin University(Major : Media of [(Former) Communication School](https://kmumedia.kookmin.ac.kr/kmumedia/index.do))
+2023.02 Expection to graduate from Kookmin University Media Major
 
 # Project
 ## Project 1. Chatbot Project
