@@ -42,3 +42,10 @@
 - Team & Chatbot name : 꽃망울
 - Subject : Finance
 - Main Contents : Scholarship Recommendation Chatbot Development for University Students
+
+## Project 2. Bigcontest
+- Folder name : [Bigcontest](https://github.com/hongseungzz/project_seungzz/tree/main/Bigcontest)
+- Period : 2022.08.30 - 2022.10.14
+- Team & Chatbot name : 선택받은아이들
+- Subject : Development of Location Selection Model for Electric Vehicle Slow Charging Station in Yongin City
+- Contents : Development of an index to select the location of a buffer electric vehicle charging station using the floating population, residential population, and commuting population data of a given area, and then the optimal location estimation
