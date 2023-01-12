@@ -2,7 +2,7 @@
 ## Chatbot Project for Suburban Scholarship Recommendations
 - Period : 2022.08.19 - 2022.09.02
 - Team & Chatbot name : 꽃망울
-- The number of Teammate : Hong Seung Gi and four others
+- The number of Teammate : Hong Seung Gi and two others
 - Subject : Finance
 - Main Contents : Scholarship Recommendation Chatbot Development for University Students
 - Language used: ```Python```

@@ -8,6 +8,8 @@
 - Contents : Development of an index to select the location of a buffer electric vehicle charging station using the floating population, residential population, and commuting population data of a given area, and then the optimal location estimation
 - Language used: ```Python```
 - Tools used: ```Google Colaboratory```
+- Algorithm used : ```K-means Algorithm```
+- Library : ``Matplotlib```, ```Numpy```, ```Pandas```, ```Seaborn``` etc.
 - Explanation
     - Simple visualization of the frequency of data on the number of electric vehicle applications run in Yongin City
     - Scatterplot implementation that varies in size and color depending on the number of applications executed by administrative district

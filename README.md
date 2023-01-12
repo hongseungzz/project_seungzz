@@ -46,6 +46,13 @@
 ## Project 2. Bigcontest
 - Folder name : [Bigcontest](https://github.com/hongseungzz/project_seungzz/tree/main/Bigcontest)
 - Period : 2022.08.30 - 2022.10.14
-- Team & Chatbot name : 선택받은아이들
+- Team : 선택받은아이들
 - Subject : Development of Location Selection Model for Electric Vehicle Slow Charging Station in Yongin City
 - Contents : Development of an index to select the location of a buffer electric vehicle charging station using the floating population, residential population, and commuting population data of a given area, and then the optimal location estimation
+
+## Project 3. Web Community Development
+- Folder name : []
+- Period : 2022.10.24 - 2022.12.02
+- Team : 휴먼ZOO
+- Subject : Public transport
+- Contents : Analysis of Bridge Congestion in Hangang River and Development of Real-Time Traffic Information Sharing Community
