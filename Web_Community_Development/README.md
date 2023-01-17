@@ -17,4 +17,4 @@
 - Assigned task
     - Data Analysis : Data Visualization and Machine Learning Model Design
 
-- [PDF](
+- [PDF](https://github.com/hongseungzz/project_seungzz/blob/main/Web_Community_Development/%EA%B5%90%ED%86%B5PPT_%EC%B5%9C%EC%A2%85.pdf)

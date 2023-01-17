@@ -51,7 +51,7 @@
 - Contents : Development of an index to select the location of a buffer electric vehicle charging station using the floating population, residential population, and commuting population data of a given area, and then the optimal location estimation
 
 ## Project 3. Web Community Development
-- Folder name : []
+- Folder name : [Web_Community_Development](https://github.com/hongseungzz/project_seungzz/tree/main/Web_Community_Development)
 - Period : 2022.10.24 - 2022.12.02
 - Team : 휴먼ZOO
 - Subject : Public transport
