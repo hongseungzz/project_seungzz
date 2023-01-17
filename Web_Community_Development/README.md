@@ -18,3 +18,6 @@
     - Data Analysis : Data Visualization and Machine Learning Model Design
 
 - [PDF](https://github.com/hongseungzz/project_seungzz/blob/main/Web_Community_Development/%EA%B5%90%ED%86%B5PPT_%EC%B5%9C%EC%A2%85.pdf)
+- [Modeling Code](https://github.com/hongseungzz/project_seungzz/tree/main/Web_Community_Development/%EC%BD%94%EB%9E%A9%20%EC%BD%94%EB%93%9C/%EB%AA%A8%EB%8D%B8%EB%A7%81)
+- [Visualization Code](https://github.com/hongseungzz/project_seungzz/tree/main/Web_Community_Development/%EC%BD%94%EB%9E%A9%20%EC%BD%94%EB%93%9C/%EC%8B%9C%EA%B0%81%ED%99%94)
+- [ProcessingNaN Code](https://github.com/hongseungzz/project_seungzz/blob/main/Web_Community_Development/%EC%BD%94%EB%9E%A9%20%EC%BD%94%EB%93%9C/TypeC_TrafficData_processingNaN.ipynb)
