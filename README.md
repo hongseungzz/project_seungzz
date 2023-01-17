@@ -36,7 +36,7 @@
   - Assigned Task : Education program introduction video production / Assistant Professor's Work / Research support etc.
 
 # Blog
-- [Link](https://seungzzang-th.tistory.com/)
+- [SeungZZang's Blog link](https://seungzzang-th.tistory.com/)
                     
 # Project
 ## Project 1. Chatbot Project
