@@ -1,5 +1,5 @@
-# Chatbot Project
-## Chatbot Project for Suburban Scholarship Recommendations
+# Web Community Development
+## Web Community Development about Public Transport 
 - Period : 2022.10.24 - 2022.12.02
 - Team : 휴먼ZOO
 - The number of Teammate : Hong Seung Gi and three others
